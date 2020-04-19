@@ -74,10 +74,10 @@ A simple Django Landing Page for organizations.
 
 
 ## Status
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
-This project is based on the goal of imporving my Dart and Flutter skills.
+This project was based on the goal of starting a small Django project on my own.
 
 
 ## Contact
@@ -90,7 +90,7 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Contributing
 
-1. Fork it (<https://github.com/Williano/Instagram-UI.git>)
+1. Fork it (<https://github.com/Williano/Landing-Page.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)

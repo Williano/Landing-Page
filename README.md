@@ -73,6 +73,25 @@ A simple Django Landing Page for organizations.
 * `Note`: It is important that when you create your virtualenv, do not create it in the same folder as the code you downloaded.
 
 
-# Contributing
+## Status
+Project is: _in progress_
 
-Read our [Contributing Guide](./CONTRIBUTING.md) on how to contribute to the project.
+## Inspiration
+This project is based on the goal of imporving my Dart and Flutter skills.
+
+
+## Contact
+Created by [Williano](https://williano.github.io/) - feel free to contact me!
+
+## License
+>You can check out the full license [here](https://github.com/Williano/Landing-Page/blob/master/LICENSE)
+
+This project is licensed under the terms of the **MIT** license.
+
+## Contributing
+
+1. Fork it (<https://github.com/Williano/Instagram-UI.git>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request

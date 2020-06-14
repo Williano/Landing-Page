@@ -1,15 +1,47 @@
 # Landing-Page
 A simple Django Landing Page for organizations.
 
-# Running the site locally
 
-## Requirments
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
+* [License](#license)
+* [Contributing](#contributing)
+
+
+## General info
+A simple Django Landing Page for organizations built with Python and Django.
+
+## Screenshots
+
+![Screenshot_2020-06-14 Coming Soon ](https://user-images.githubusercontent.com/19711677/84585879-cbfbb280-add9-11ea-8263-f2da37cbb638.png)
+
+
+## Technologies
+* Python 3
+* Javascript
+* Django 3
+* HTML5
+* CSS3 
+* Bootstrap 4
+* Font awesome
+
+
+## Setup
+
+### Requirments
 
 * [Python 3.6.3](https://python.org)
-* [Django 2.0.1](https://www.djangoproject.com/)
+* [Django 3.0.1](https://www.djangoproject.com/)
 * [virtualenv](https://virtualenv.pypa.io/en/stable/) or [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io)
 
-## Installation on Linux
+### Installation on Linux
 
 * [Follow the guide here](https://help.github.com/articles/fork-a-repo) on how to clone or fork a repo
 * [Follow the guide here](http://simononsoftware.com/virtualenv-tutorial/) on how to create virtualenv
@@ -37,7 +69,7 @@ A simple Django Landing Page for organizations.
 * `Note`: It is important that when you create your virtualenv, do not create it in the same folder as the code you downloaded.
 
 
-## Installation on Windows
+### Installation on Windows
 
 * [Follow the guide here](https://help.github.com/articles/fork-a-repo) on how to clone or fork a repo
 * [Follow the guide here](http://pymote.readthedocs.io/en/latest/install/windows_virtualenv.html) on how to create virtualenv
@@ -71,6 +103,11 @@ A simple Django Landing Page for organizations.
 * Open the address in the browser
 * Don't forget to Change ALLOWED_HOSTS = ['127.0.0.1'] in settings.py
 * `Note`: It is important that when you create your virtualenv, do not create it in the same folder as the code you downloaded.
+
+
+## Features
+
+* Email subscription
 
 
 ## Status

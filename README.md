@@ -25,8 +25,8 @@ A simple Django Landing Page for organizations built with Python and Django.
 
 ## Technologies
 * Python 3
-* Javascript
 * Django 3
+* Javascript
 * HTML5
 * CSS3 
 * Bootstrap 4

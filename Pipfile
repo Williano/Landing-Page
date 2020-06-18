@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pytz = "==2017.3"
+Django = "==2.2.13"
+
+[requires]
+python_version = "3.8"

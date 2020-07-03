@@ -6,8 +6,8 @@ A simple Django Landing Page for organizations.
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
+* [Setup](#setup)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -31,6 +31,10 @@ A simple Django Landing Page for organizations built with Python and Django.
 * CSS3 
 * Bootstrap 4
 * Font awesome
+
+## Features
+
+* Email subscription
 
 
 ## Setup
@@ -103,11 +107,6 @@ A simple Django Landing Page for organizations built with Python and Django.
 * Open the address in the browser
 * Don't forget to Change ALLOWED_HOSTS = ['127.0.0.1'] in settings.py
 * `Note`: It is important that when you create your virtualenv, do not create it in the same folder as the code you downloaded.
-
-
-## Features
-
-* Email subscription
 
 
 ## Status

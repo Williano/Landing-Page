@@ -5,8 +5,8 @@ A simple Django Landing Page for organizations.
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
 * [Features](#features)
+* [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -23,6 +23,10 @@ A simple Django Landing Page for organizations built with Python and Django.
 ![Screenshot_2020-06-14 Coming Soon ](https://user-images.githubusercontent.com/19711677/84585879-cbfbb280-add9-11ea-8263-f2da37cbb638.png)
 
 
+## Features
+
+* Email subscription
+
 ## Technologies
 * Python 3
 * Django 3
@@ -31,10 +35,6 @@ A simple Django Landing Page for organizations built with Python and Django.
 * CSS3 
 * Bootstrap 4
 * Font awesome
-
-## Features
-
-* Email subscription
 
 
 ## Setup

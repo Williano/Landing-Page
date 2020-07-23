@@ -28,7 +28,7 @@ A simple Django Landing Page for organizations built with Python and Django.
 * Email subscription
 
 ## Technologies
-* Python 3
+* Python 3.6
 * Django 3
 * Javascript
 * HTML5

@@ -36,7 +36,6 @@ A simple Django Landing Page for organizations built with Python and Django.
 * Bootstrap 4
 * Font awesome
 
-
 ## Setup
 
 To run this app, you will need to follow these 3 steps:

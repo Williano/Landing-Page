@@ -23,6 +23,7 @@ A simple Django Landing Page for organizations built with Python and Django.
 ![Screenshot_2020-06-14 Coming Soon ](https://user-images.githubusercontent.com/19711677/84585879-cbfbb280-add9-11ea-8263-f2da37cbb638.png)
 
 
+
 ## Features
 
 * Email subscription

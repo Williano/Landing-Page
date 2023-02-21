@@ -1,5 +1,5 @@
 # Landing-Page
-A simple Django Landing Page for organizations.
+A simple Django Landing Page for organizations. Simple to deploy.
 
 
 ## Table of contents
